@@ -329,27 +329,41 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    background: url(https://data.whicdn.com/images/306361393/superthumb.jpg?t=1517352362);
+    background-size: cover;
+    color: rgb(0,0,0,0);
+}
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    background: url(https://pm1.narvii.com/6788/20351f2…v2_hq.jpg);
+    background-size: cover;
+    color: rgb(0,0,0,0);
+}
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
-    background: #f2b179; }
+   background: url(https://www.kpopn.com/upload/2018/12/20181215_bobby-2.jpg);
+    background-size: cover;
+    color: rgb(0,0,0,0);
+}
   .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
-    background: #f59563; }
+    background: url(https://www.billboard.com/files/styles/article_main_image/public/media/bobby-ikon-2017-YG-Entertainment-billboard-1548.jpg);
+    background-size: cover;
+    color: rgb(0,0,0,0);
+}
   .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
-    background: #f67c5f; }
+    background: url(https://cdn.idntimes.com/content-images/community/2018/12/img-20181221-152309-468218b…_600x400.jpg);
+    background-size: cover;
+    color: rgb(0,0,0,0);
+}
   .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
-    background: #f65e3b; }
+    background: url(https://i.pinimg.com/originals/7f/d1/f5/7fd1f5f….jpg);
+    background-size: cover;
+    color: rgb(0,0,0,0);
+}
   .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
-    background: #edcf72;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
+    background: url(https://0.soompi.io/wp-content/uploads/2017/09/07181609/Bobby.png?s=900x600&e=t);
+    background-size: cover;
+    color: rgb(0,0,0,0);
+}
+    { box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
