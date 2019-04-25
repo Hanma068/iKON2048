@@ -329,37 +329,37 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: url(https://data.whicdn.com/images/306361393/superthumb.jpg?t=1517352362);
+    background: url("https://data.whicdn.com/images/306361393/superthumb.jpg?t=1517352362");
     background-size: cover;
     color: rgb(0,0,0,0);
 }
   .tile.tile-4 .tile-inner {
-    background: url(https://pm1.narvii.com/6788/20351f2…v2_hq.jpg);
+    background: url("https://pm1.narvii.com/6788/20351f2…v2_hq.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
 }
   .tile.tile-8 .tile-inner {
-   background: url(https://www.kpopn.com/upload/2018/12/20181215_bobby-2.jpg);
+   background: url("https://www.kpopn.com/upload/2018/12/20181215_bobby-2.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
 }
   .tile.tile-16 .tile-inner {
-    background: url(https://www.billboard.com/files/styles/article_main_image/public/media/bobby-ikon-2017-YG-Entertainment-billboard-1548.jpg);
+    background: url("https://www.billboard.com/files/styles/article_main_image/public/media/bobby-ikon-2017-YG-Entertainment-billboard-1548.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
 }
   .tile.tile-32 .tile-inner {
-    background: url(https://cdn.idntimes.com/content-images/community/2018/12/img-20181221-152309-468218b…_600x400.jpg);
+    background: url("https://cdn.idntimes.com/content-images/community/2018/12/img-20181221-152309-468218b…_600x400.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
 }
   .tile.tile-64 .tile-inner {
-    background: url(https://i.pinimg.com/originals/7f/d1/f5/7fd1f5f….jpg);
+    background: url("https://i.pinimg.com/originals/7f/d1/f5/7fd1f5f….jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
 }
   .tile.tile-128 .tile-inner {
-    background: url(https://0.soompi.io/wp-content/uploads/2017/09/07181609/Bobby.png?s=900x600&e=t);
+    background: url("https://0.soompi.io/wp-content/uploads/2017/09/07181609/Bobby.png?s=900x600&e=t");
     background-size: cover;
     color: rgb(0,0,0,0);
 }
