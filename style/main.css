@@ -329,17 +329,17 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner { 
-    background: url(https://data.whicdn.com/images/306361393/superthumb.jpg?t=1517352362);
+    background: url("https://data.whicdn.com/images/306361393/superthumb.jpg?t=1517352362");
     background-size: cover;
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: url(https://pm1.narvii.com/6788/20351f2…v2_hq.jpg);
+    background: url("https://pm1.narvii.com/6788/20351f2…v2_hq.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-  background: url(https://www.kpopn.com/upload/2018/12/20181215_bobby-2.jpg);
+    background: url("https://www.kpopn.com/upload/2018/12/20181215_bobby-2.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
 }
@@ -362,8 +362,7 @@ hr {
     background: url("https://0.soompi.io/wp-content/uploads/2017/09/07181609/Bobby.png?s=900x600&e=t");
     background-size: cover;
     color: rgb(0,0,0,0);
-}
-    { box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
+     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
@@ -405,9 +404,8 @@ hr {
       .tile.tile-2048 .tile-inner {
         font-size: 15px; } }
   .tile.tile-super .tile-inner {
-    background:url("https://i.kfs.io/artist/global/3888633,0v13/fit/300x300.jpg")
-     background-size: cover;
-    color: rgb(0,0,0,0);  
+    color: #f9f6f2;
+    background: #3c3a32;
     font-size: 30px; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner {
