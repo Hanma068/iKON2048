@@ -330,46 +330,46 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: url("https://data.whicdn.com/images/306361393/superthumb.jpg?t=1517352362");
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2007TaipeiAudioVideoFair_ShihchienWang.jpg/200px-2007TaipeiAudioVideoFair_ShihchienWang.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: url("https://pm1.narvii.com/6788/20351f2…v2_hq.jpg");
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%E6%9F%AF%E6%96%87%E5%93%B2_IMG_9322-1_%2814300234412%29_%28cropped%29.jpg/250px-%E6%9F%AF%E6%96%87%E5%93%B2_IMG_9322-1_%2814300234412%29_%28cropped%29.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: url("https://www.kpopn.com/upload/2018/12/20181215_bobby-2.jpg");
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Han_Kuo-yu%28cropped%29.jpg/449px-Han_Kuo-yu%28cropped%29.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
 }
   .tile.tile-16 .tile-inner {
-    background: url("https://www.billboard.com/files/styles/article_main_image/public/media/bobby-ikon-2017-YG-Entertainment-billboard-1548.jpg");
+    background: url("https://attach.setn.com/newsimages/2017/07/28/988696-XXL.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
 }
   .tile.tile-32 .tile-inner {
-    background: url("https://cdn.idntimes.com/content-images/community/2018/12/img-20181221-152309-468218b…_600x400.jpg");
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/%E8%94%A1%E8%8B%B1%E6%96%87%E5%AE%98%E6%96%B9%E5%85%83%E9%A6%96%E8%82%96%E5%83%8F%E7%85%A7.png/250px-%E8%94%A1%E8%8B%B1%E6%96%87%E5%AE%98%E6%96%B9%E5%85%83%E9%A6%96%E8%82%96%E5%83%8F%E7%85%A7.png");
     background-size: cover;
     color: rgb(0,0,0,0);
 }
   .tile.tile-64 .tile-inner {
-    background: url("https://i.pinimg.com/originals/7f/d1/f5/7fd1f5f….jpg");
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC12%E3%80%8113%E4%BB%BB%E7%B8%BD%E7%B5%B1%E9%A6%AC%E8%8B%B1%E4%B9%9D%E5%85%88%E7%94%9F%E5%AE%98%E6%96%B9%E8%82%96%E5%83%8F%E7%85%A7.jpg/250px-%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC12%E3%80%8113%E4%BB%BB%E7%B8%BD%E7%B5%B1%E9%A6%AC%E8%8B%B1%E4%B9%9D%E5%85%88%E7%94%9F%E5%AE%98%E6%96%B9%E8%82%96%E5%83%8F%E7%85%A7.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
 }
   .tile.tile-128 .tile-inner {
-    background: url("https://0.soompi.io/wp-content/uploads/2017/09/07181609/Bobby.png?s=900x600&e=t");
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Presiden5a_%28cropped%29.jpg/235px-Presiden5a_%28cropped%29.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
-     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background:url("https://vignette.wikia.nocookie.net/kpop/images/f/fa/IKON_Bobby_Return_promo_photo.png/revision/latest?cb=20180601030305");
+    background: url("https://religion.moi.gov.tw/WebCtrl/FileStore/CKUpload/P63%E9%97%9C%E8%81%96%E5%B8%9D%E5%90%9B-1%E8%87%BA%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E8%A1%8C%E5%A4%A9%E5%AE%AE%EF%BC%88%E9%99%B3%E7%BE%8E%E8%8F%AF%E6%94%9D%EF%BC%89DSC06415%E6%97%8B.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
@@ -378,7 +378,7 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    background:url("https://lh3.googleusercontent.com/hht43i-OHciitJf7g2wq7HjE8mFJpAxnTr6Mo4yqI0gh3O65h56aDRt8QjuqDgxqVORyi_tboiwYAWXokAOWNPkLSK_EWhXIew=w1600-rj");
+    background: url("https://s.yimg.com/ny/api/res/1.2/HiE5AOGZkwj3YxY3xcWHqw--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NjMwO2lsPXBsYW5l/http://l.yimg.com/os/publish-images/news/2016-04-07/7dde3770-fc95-11e5-a0c3-49c8b4689a7e_9995_1.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
@@ -387,7 +387,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background:url("https://i.pinimg.com/originals/f3/d7/58/f3d758b104838c493efc783ea72aa2e7.jpg");
+    background: url("");
     background-size: cover;
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
@@ -396,7 +396,7 @@ hr {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    background:url("https://i.pinimg.com/originals/1c/d6/8b/1cd68bfa3087e0f524a1d34960aa4e11.jpg");
+    background: url("");
     background-size: cover;
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
